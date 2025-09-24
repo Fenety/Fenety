@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Fenety Damtew, a 4th-year Software Engineering student passionate about web development and cybersecurity. I enjoy building clean, responsive apps and exploring secure coding practices. Always learning, always creating 🚀. I enjoy building clean, responsive apps, exploring secure coding practices, and constantly growing through LeetCode problem-solving and modern web frameworks 🚀.<br>
+👋 Hi, I’m Fenety Damtew, a 4th-year Software Engineering student passionate about web development and cybersecurity. I enjoy building clean, responsive apps, exploring secure coding practices, and constantly growing through LeetCode problem-solving and modern web frameworks 🚀.<br>
 
 
 ## 🌐 Socials:
