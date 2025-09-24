@@ -2,7 +2,9 @@
 👋 Hi, I’m Fenety Damtew, a 4th-year Software Engineering student passionate about web development and cybersecurity. I enjoy building clean, responsive apps, exploring secure coding practices, and constantly growing through LeetCode problem-solving and modern web frameworks.
 
 🌱 Learning: Next.js, Go (Golang)
+
 💡 Exploring: Cybersecurity, Web Exploitation, Blockchain
+
 🤝 Always open to collaboration, knowledge-sharing, or pair programming 🚀 <br>
 
 
