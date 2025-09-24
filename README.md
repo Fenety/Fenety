@@ -5,7 +5,7 @@
 
 💡 Exploring: Cybersecurity, Web Exploitation, Blockchain
 
-🤝 Always open to collaboration, knowledge-sharing, or pair programming 🚀 <br>
+🤝 Let’s build, learn, and innovate together — always open to collaboration and coding sessions 🚀 <br>
 
 
 ## 🌐 Socials:
